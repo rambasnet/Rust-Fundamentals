@@ -12,6 +12,7 @@
 <!-- table0 -->
 <g id="node1" class="node">
 <title>table0</title>
+<polygon fill="#c0c0c0" stroke="transparent" points="8,-130 8,-230 96,-230 96,-130 8,-130"/>
 <polyline fill="none" stroke="#000000" points="8,-210 96,-210 "/>
 <text text-anchor="start" x="45.7759" y="-215.8" font-family="Times,serif" font-size="14.00" fill="#000000">s1</text>
 <polygon fill="none" stroke="#000000" points="8,-190 8,-210 60,-210 60,-190 8,-190"/>
